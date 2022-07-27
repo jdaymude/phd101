@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'PHD 101'
-copyright = '2022, Joshua J. Daymude'
 author = 'Joshua J. Daymude'
+copyright = '2022, ' + author
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.0-alpha'
+release = 'v0.0.0-alpha'
 
 
 # -- General configuration ---------------------------------------------------
@@ -44,10 +44,24 @@ exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
-html_theme = 'alabaster'
+# The theme to use for HTML and HTML Help pages.
+html_theme = 'sphinx_book_theme'
+html_theme_options = {
+    "repository_url": "https://github.com/jdaymude/phd101",
+    "use_repository_button": True,
+    "use_issues_button": True,
+    "use_edit_page_button": True,
+    "repository_branch": "main",
+    "path_to_docs": "src/",
+    "use_sidenotes": True,
+    "extra_navbar": release
+}
+html_last_updated_fmt = ""
+
+# The project's title, logo, and favicon.
+html_title = project
+# html_logo = "path/to/my/logo.png"
+html_favicon = "_static/icon.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
