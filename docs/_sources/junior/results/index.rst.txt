@@ -1,3 +1,5 @@
+.. _junior_results:
+
 Obtaining convincing results
 ============================
 
@@ -8,6 +10,12 @@ Obtaining convincing results
    purpose
    argument
 
+
+.. warning::
+
+   This page is still being built!
+
+
 .. admonition:: TODO
 
-   This section summarizes modeling, simulation, proofs, etc. Any experiments, results, etc. should be in support of the purpose.
+   Global statement for the results subsection summarizing modeling, simulation, proofs, etc. Any experiments, results, etc. should be in support of the purpose.

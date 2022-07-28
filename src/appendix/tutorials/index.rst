@@ -1,3 +1,5 @@
+.. _tutorials:
+
 Tutorials
 =========
 
@@ -10,3 +12,13 @@ Tutorials
    documentation
    parallelization
    git
+
+
+.. warning::
+
+   This page is still being built!
+
+
+.. admonition:: TODO
+
+   Global statement for the tutorials.

@@ -1,5 +1,12 @@
+.. _prospective_advisors:
+
 Identifying potential advisors
 ==============================
+
+.. warning::
+
+   This page is still being built!
+
 
 .. admonition:: TODO
 

@@ -1,5 +1,16 @@
+.. _summit_beyond:
+
 The great beyond
 ================
+
+.. warning::
+
+   This page is still being built!
+
+
+.. admonition:: TODO
+
+   Explain what a PhD gets you on the other side, what you can do with it, jobs, etc.
 
 
 .. epigraph::

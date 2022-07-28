@@ -1,5 +1,12 @@
+.. _prospective_funding:
+
 Securing funding
 ================
+
+.. warning::
+
+   This page is still being built!
+
 
 .. admonition:: TODO
 

@@ -31,7 +31,11 @@ release = 'v0.0.0-alpha'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx_tabs.tabs'
 ]
+
+# Disable ability to close sphinx-tabs by clicking open tab.
+sphinx_tabs_disable_tab_closing = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
