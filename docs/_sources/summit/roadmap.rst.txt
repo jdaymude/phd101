@@ -1,14 +1,97 @@
 .. _summit_roadmap:
 
-Roadmap and milestones
-======================
+Roadmapping a PhD
+=================
 
 .. warning::
 
    This page is still being built!
 
 
+Two intersecting realities shape the narrative of a PhD.
+There is the *external reality*: What classes have I passed? What research have I produced? What are my advisor and colleagues saying about my progress?
+Then there is the *internal reality*: What makes me the most excited? Where do my insecurities arise from? What do I tell myself about my progress, belonging, and worth?
+Our answers to these questions evolve as we grow and shape our experiences—which, in turn, grow and shape us.
+
 .. admonition:: TODO
 
-   Define the four cohorts (can reference the Burge book as inpsiration) and explain the transitions between them.
-   Explain the PhD milestones (qualifying exam, comprehensive exam, dissertation proposal, dissertation).
+   Image showing three versions of progress: time (years, semesters), milestones, and cohorts.
+
+
+Milestones: The external reality
+--------------------------------
+
+The PhD *milestones*—identifying a faculty advisor, forming a faculty committee, completing coursework, passing qualifying/comprehensive exams, proposing a dissertation, and defending a dissertation—are the steps required by most PhD programs for degree completion.
+The timing and formality of these milestones vary by PhD program and university.
+Use this section as a rough guide and refer to your program's PhD handbook for details.
+
+
+Find a faculty advisor (Years 0–1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A PhD is an :ref:`apprenticeship <summit_whatis_apprenticeship>`, and a PhD student apprentices under a *faculty advisor* (or "PhD advisor").
+The faculty advisor is primarily responsible for supervising the PhD student's research and degree progress, but the reality is much more complex.
+At their best, a faculty advisor is also their students' insightful teacher, encouraging mentor, and fierce advocate; at their worst, the imbalanced advisor–advisee power dynamic can lead to toxicity and abuse.
+That's why the first PhD milestone is finding a good faculty advisor.
+The rest of the PhD experience is defined by and flows out of that relationship.
+I return to this topic in more detail in :ref:`prospective_advisors`.
+
+
+Form a faculty committee (Years 1–3)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The *faculty committee* is a small group of professors, led by the faculty advisor, who help advise the PhD student and determine the outcome of any exams or defenses.
+Committee faculty are typically research collaborators or relevant subject experts familiar enough with the PhD student and their research area to provide constructive feedback.
+They aren't always as personally formative as the faculty advisor, but they act as the basis of the PhD student's professional network and a sounding board for new ideas.
+Building faculty relationships and collaborations can take time.
+This milestone is best started early so that, when it comes time to formally get faculty to sign on, the asks are easy and the answers are always yes.
+
+
+Complete coursework (Years 1–3)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. margin::
+
+   PhD students in Europe take very few courses, if any; this is the primary function of their Master's degree programs.
+
+In the United States, most STEM PhD programs require that students complete a number of courses before advancing to the later milestones.
+Course requirements vary dramatically between universities and programs.
+Some departments have course-heavy programs that emphasize familiarity with a breadth of topics while others view coursework as a necessary barrier to productive research, encouraging students to take only a few relevant courses.
+In any case, graduate courses are intensely time-consuming and difficult, so PhD students should work with their faculty advisors to recognize worthwhile course offerings and align their coursework with their research interests.
+I return to this topic in :ref:`new_coursework`.
+
+
+Pass the qualifying/comprehensive exams (Year 3)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The purpose of the *qualifying* and *comprehensive exams* is to demonstrate a PhD student's mastery over preliminary research skills and any relevant coursework or literature.
+How many exams do PhD students take, and when?
+Is the exam a written document, an oral defense, or both?
+
+.. admonition:: TODO
+
+   Wrap this up with something, I don't really have anything interesting to say at the moment.
+
+
+Propose dissertation research (Year 4)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ability to propose and competently execute novel, relevant, and realistic research
+
+
+Defend your dissertation (Years 5+)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+blah blah blah
+
+
+Cohorts: The internal reality
+-----------------------------
+
+.. margin::
+
+   These cohorts are inspired by *Mapping Your Academic Career* :cite:p:`Burge2015-mappingyour`, which organizes faculty cohorts around goals of finding security (assistant professors), finding success (associate professors), and finding significance ("legacy" professors).
+
+.. admonition:: TODO
+
+   Define the four cohorts and explain the transitions between them.

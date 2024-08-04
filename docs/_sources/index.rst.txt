@@ -65,15 +65,16 @@ A guide for computer science PhDs
 
    Overview <appendix/overview>
    appendix/tutorials/index
+   appendix/bibliography
    genindex
 
 
 Pursuing a PhD is a noble but arduous endeavor.
 Many students, myself included, enter their PhD programs without a clear sense of what will be demanded of them over the next five or more years.
-Academia's many opaque rules and high expectations contribute to students' insecurity, frustration, and disillusionment with their work.
+Academia's many high expectations and opaque rules contribute to students' insecurity, frustration, and disillusionment with their work.
 In part, these issues stem from students' unmet needs to know what to expect, situate their experiences in the broader arc of their progress, and learn the processes and workflows that support a productive PhD.
 
-Throughout my six PhD and postdoc years, I kept a list of every practice and insight about the PhD experience that was new to me but considered common knowledge by more senior academics.
+During my six PhD and postdoc years, I kept a list of every practice and insight about the PhD experience that was new to me but considered common knowledge by more senior academics.
 This guide is the distillation of those observations into a comprehensive roadmap of the (computer science) PhD experience.
 Its chapters reflect the cohorts of PhD studentship and their goals:
 
@@ -82,9 +83,10 @@ Its chapters reflect the cohorts of PhD studentship and their goals:
 * :ref:`Junior students <junior_overview>`, who are honing the skills of independent ideation, argument, and communication.
 * :ref:`Senior students <senior_overview>`, who are pursuing purpose beyond their PhD program.
 
-This guide is primarily aimed toward PhD students in computer science (and possibly mathematics).
-Some content—especially those around research skills and technical writing—may extend to other STEM PhDs as well.
+This guide is primarily aimed toward PhD students studying computer science and possibly mathematics.
+Some content—especially around research skills and technical writing—may extend to other STEM PhDs as well.
 It would be interesting to see a humanities version of this guide one day; though some workflows presented here (e.g., for :ref:`time and project management <new_management>` or :ref:`automated document formatting <tutorials_latex>`) might translate with little effort.
+As a final disclaimer, my institutional and relational experiences will most align with the academic cultures of the United States and Europe, though meaningful differences exist within these cultures and meaningful similarities extend beyond them.
 
 
 How to read this guide
@@ -145,4 +147,4 @@ About the author
 I am `Joshua J. Daymude <https://jdaymude.github.io/>`_, an assistant professor of computer science at Arizona State University.
 I research complex systems and emergent phenomena through the lens of distributed computing theory, mathematical modeling, and large-scale simulation.
 I wrote this guide to clarify my own workflows and philosophies on supervising PhD students.
-My hope is that it will help future PhD students (and their faculty advisors) avoid unnecessary frustration and flourish in and beyond their PhD training.
+My hope is that it will help future PhD students (and their faculty advisors) flourish in and beyond their PhD training.
